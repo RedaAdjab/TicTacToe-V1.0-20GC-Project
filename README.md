@@ -11,7 +11,7 @@ My version of the game is built in Unity using C#, featuring multiple **AI** dif
 🎯 **[Play or Download on itch.io](https://reda-adjab.itch.io/tic-tac-toe-20gc)**
 
 ## 🧪 Devlog
-Learn about the design process, challenges, and lessons learned in the [Devlog post](https://reda-adjab.itch.io/tic-tac-toe-20gc/devlog/1007578/20-games-challenge-game-5-tic-tac-toe).
+Learn about the design process, challenges, and lessons learned in the [Devlog post](https://reda-adjab.itch.io/tic-tac-toe-20gc/devlog/1016264/20-games-challenge-game-5-tic-tac-toe).
 
 ## 📦 Build Info
 - **Engine**: Unity 6.1.11 (WebGL compatible)  
